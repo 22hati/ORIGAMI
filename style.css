@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+}
+*{
+    text-align: center;
+}
+.header{
+    background-color: bisque;
+    display:flex;
+    justify-content: space-between;
+}
+.item{
+    background-color: brown;
+    display:flex;
+    justify-content: space-between;
+}
